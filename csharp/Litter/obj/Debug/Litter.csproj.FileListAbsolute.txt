@@ -1,0 +1,11 @@
+C:\Code\Github\Presentations\Logging in a DevOps world\csharp\Litter\bin\Debug\Litter.dll
+C:\Code\Github\Presentations\Logging in a DevOps world\csharp\Litter\bin\Debug\Litter.pdb
+C:\Code\Github\Presentations\Logging in a DevOps world\csharp\Litter\bin\Debug\PSFramework.dll
+C:\Code\Github\Presentations\Logging in a DevOps world\csharp\Litter\bin\Debug\System.Management.Automation.dll
+C:\Code\Github\Presentations\Logging in a DevOps world\csharp\Litter\bin\Debug\PSFramework.pdb
+C:\Code\Github\Presentations\Logging in a DevOps world\csharp\Litter\bin\Debug\PSFramework.xml
+C:\Code\Github\Presentations\Logging in a DevOps world\csharp\Litter\obj\Debug\Litter.csprojAssemblyReference.cache
+C:\Code\Github\Presentations\Logging in a DevOps world\csharp\Litter\obj\Debug\Litter.csproj.CoreCompileInputs.cache
+C:\Code\Github\Presentations\Logging in a DevOps world\csharp\Litter\obj\Debug\Litter.csproj.CopyComplete
+C:\Code\Github\Presentations\Logging in a DevOps world\csharp\Litter\obj\Debug\Litter.dll
+C:\Code\Github\Presentations\Logging in a DevOps world\csharp\Litter\obj\Debug\Litter.pdb
